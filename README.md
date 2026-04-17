@@ -16,3 +16,7 @@ Python
 Rich
 Whois
 Phonenumbers
+
+pip install -r requirements.txt
+
+python main.py
