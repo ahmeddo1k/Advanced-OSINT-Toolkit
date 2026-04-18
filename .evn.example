@@ -1,0 +1,5 @@
+# Shodan API Key (احصل عليه من https://account.shodan.io/)
+SHODAN_API_KEY=your_shodan_api_key_here
+
+# VirusTotal API Key (احصل عليه من https://www.virustotal.com/gui/my-apikey)
+VIRUSTOTAL_API_KEY=your_virustotal_api_key_here
