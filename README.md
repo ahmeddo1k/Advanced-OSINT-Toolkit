@@ -35,12 +35,11 @@ cp .env.example .env```
 ## الأستخدام
 
 # وضع تفاعلي
-```
+
 ```python
 python main.py```
-
-# أو مباشرة
 ```
+# أو مباشرة
 ```python
 python main.py -p +201234567890```
 ```
