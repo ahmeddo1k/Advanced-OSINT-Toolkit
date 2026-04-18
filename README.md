@@ -17,19 +17,28 @@
 
 ## التثبيت
 ```bash
-git clone https://github.com/yourusername/advanced-osint-toolkit.git
-cd advanced-osint-toolkit
-pip install -r requirements.txt
-cp .env.example .env
+git clone https://github.com/yourusername/advanced-osint-toolkit.git```
+```bash
+cd advanced-osint-toolkit```
+
+```python
+pip install -r requirements.txt```
+```bash
+cp .env.example .env```
 # قم بتعديل .env وأضف مفاتيح API الخاصة بك
 
 ## الأستخدام
 
 # وضع تفاعلي
-python main.py
+```python
+python main.py```
 
 # أو مباشرة
-python main.py -p +201234567890
-python main.py -e user@example.com
-python main.py -d example.com
-python main.py -u username
+```python
+python main.py -p +201234567890```
+```python
+python main.py -e user@example.com```
+```python
+python main.py -d example.com```
+```python
+python main.py -u username```
